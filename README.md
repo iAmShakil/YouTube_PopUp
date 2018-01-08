@@ -1,5 +1,5 @@
 # YouTube PopUp jQuery Plugin
-jQuery plugin to display YouTube video or Vimeo video in PopUp, responsive &amp; retina, Compatible with WordPress, Autoplay support, easy to use. Now supports bitly URLs of youtube and videmo videos!!
+jQuery plugin to display YouTube video or Vimeo video in PopUp, responsive &amp; retina, Compatible with WordPress, Autoplay support, easy to use. Now supports bitly URLs of youtube and videmo videos with an access token!!
 
 ##Live Demo
 
